@@ -5,52 +5,40 @@ Front-end Developer
 </p>
 
 <p align="center">
-I'm passionate about building modern web applications, interactive UI, and reusable front-end components.
+I build modern web applications, interactive interfaces, and reusable front-end tools.
 </p>
 
 ---
 
-## 🚀 Featured Repositories
+## 🚀 Featured Projects
 
 ### 🧩 Reusable Toolkit
 
-- 🌊 **[Fluid Cursor Engine](https://github.com/Ph-Alexis/fluid-cursor-engine)**
-  > Reusable WebGL fluid cursor engine for React.
-
----
+- 🌊 **[Fluid Cursor Engine](https://github.com/Ph-Alexis/fluid-cursor-engine)**  
+  Reusable WebGL fluid cursor engine for React.
 
 ### 🎓 University Projects
 
-- ⌚ **[Watch Shop](https://github.com/Ph-Alexis/watch-shop)**
-  > Watch e-commerce website.
+- ⌚ **[Watch Shop](https://github.com/Ph-Alexis/watch-shop)**  
+  Watch e-commerce website.
 
-- 🛒 **[Shopping Online Clean](https://github.com/Ph-Alexis/shoppingonline-clean)**
-  > Refactored version of the shopping website.
+- 🛒 **[Shopping Online Clean](https://github.com/Ph-Alexis/shoppingonline-clean)**  
+  Refactored online shopping website.
 
-- 👕 **[Shop Quần Áo](https://github.com/Ph-Alexis/shop_quan_ao)**
-  > Clothing store website.
+- 👕 **[Shop Quần Áo](https://github.com/Ph-Alexis/shop_quan_ao)**  
+  Clothing store website.
 
-- 🛍️ **[WebBanHang](https://github.com/Ph-Alexis/WebBanHang)**
-  > Basic e-commerce website.
+- 🛍️ **[WebBanHang](https://github.com/Ph-Alexis/WebBanHang)**  
+  Basic e-commerce website.
 
 ---
 
-
 ## 💻 Tech Stack
 
-- React
-- JavaScript
-- HTML5
-- CSS3
-- Node.js
-- Express
-- MongoDB
-- Git
-- Figma
-- Postman
+React • JavaScript • HTML5 • CSS3 • Node.js • Express • MongoDB • Git • Figma • Postman
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/Ph-Alexis
+- [GitHub](https://github.com/Ph-Alexis)
