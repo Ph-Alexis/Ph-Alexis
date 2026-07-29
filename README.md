@@ -17,7 +17,7 @@ I build modern web applications, interactive interfaces, and reusable front-end 
 - 🌊 **[Fluid Cursor Engine](https://github.com/Ph-Alexis/fluid-cursor-engine)**  
   Reusable WebGL fluid cursor engine for React.
 
-- ✨ **[Pointer Glow Engine](https://github.com/Ph-Alexis/pointer-glow-engine)**
+- ✨ **[Pointer Glow Engine](https://github.com/Ph-Alexis/pointer-glow-engine)**  
   Reusable pointer glow engine for React.
 
 ### 🎓 University Projects
