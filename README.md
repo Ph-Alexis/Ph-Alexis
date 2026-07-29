@@ -12,7 +12,7 @@ I'm passionate about building modern web applications, interactive UI, and reusa
 
 ## 🚀 Featured Repositories
 
-### 🧩 Reusable
+### 🧩 Reusable Toolkit
 
 - 🌊 **[Fluid Cursor Engine](https://github.com/Ph-Alexis/fluid-cursor-engine)**
   > Reusable WebGL fluid cursor engine for React.
