@@ -37,8 +37,3 @@ I build modern web applications, interactive interfaces, and reusable front-end 
 
 React • JavaScript • HTML5 • CSS3 • Node.js • Express • MongoDB • Git • Figma • Postman
 
----
-
-## 📫 Contact
-
-- [GitHub](https://github.com/Ph-Alexis)
