@@ -12,6 +12,12 @@ I build modern web applications, interactive interfaces, and reusable front-end 
 
 ## 🚀 Featured Projects
 
+### 💡 Personal Projects
+
+- 🏰 **[Typelore](https://github.com/Ph-Alexis/typelore)**  
+  A real-time 1v1 typing PvP game where your keyboard is your weapon.  
+  Built with **React, TypeScript, Node.js, Express & Socket.IO**.
+
 ### 🧩 Reusable Toolkit
 
 - 🌊 **[Fluid Cursor Engine](https://github.com/Ph-Alexis/fluid-cursor-engine)**  
